@@ -27,3 +27,7 @@ Throughout the process, special attention is given to optimizing the recommendat
 Additionally, for demonstration purposes, we may add a simple console-based user interface where users can enter their ID and receive a list of recommended items. Advanced implementations could even include real-time recommendations, scalability options using Mahout’s MapReduce integration, or hybrid approaches that combine both collaborative and content-based methods.
 
 The final deliverable consists of the Java source code, the project setup file (such as a Maven pom.xml file listing the necessary dependencies), sample datasets for testing, and documentation explaining how to run the application. All components are neatly organized and properly commented to facilitate understanding for future improvements or scaling the project further.
+
+OUTPUT:
+
+[output.txt](https://github.com/user-attachments/files/19941660/output.txt)
