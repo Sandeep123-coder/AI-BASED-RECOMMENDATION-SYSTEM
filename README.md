@@ -30,4 +30,4 @@ The final deliverable consists of the Java source code, the project setup file (
 
 OUTPUT:
 
-([output.txt](https://github.com/user-attachments/files/19941660/output.txt))
+![Image](https://github.com/user-attachments/assets/9940fa10-c9f6-4413-b3b0-c17660dd383c)
